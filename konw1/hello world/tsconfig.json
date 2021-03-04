@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "target": "esnext",
+        "removeComments": true,
+        "outDir": "dist"
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
